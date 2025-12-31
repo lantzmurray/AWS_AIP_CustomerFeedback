@@ -40,7 +40,7 @@ echo "Frontend URL: https://$(aws cloudfront list-distributions | jq -r '.Distri
 
 This AWS AI Project demonstrates modern cloud architecture and AI integration capabilities through a comprehensive customer feedback processing system. The project was developed by **Lantz Murray** as a demonstration of production-ready serverless architecture with multimodal AI processing.
 
-**Author**: [Lantz Murray](https://www.linkedin.com/in/lantzmurray/)
+**Author**: [Lantz Murray](https://www.linkedin.com/in/lantz-murray/)
 
 ### Key Features
 - **Multimodal Data Processing**: Handles text reviews, product images, audio recordings, and survey responses
