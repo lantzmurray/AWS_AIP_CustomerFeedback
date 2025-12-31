@@ -1,0 +1,336 @@
+{
+  "generation_timestamp": "2025-12-12T07:45:22.850142",
+  "total_reviews_processed": 15,
+  "successful_generations": 15,
+  "failed_generations": 0,
+  "configuration": {
+    "aws_region": "us-east-1",
+    "text_reviews_dir": "../text_reviews",
+    "audio_output_dir": "../audio",
+    "output_format": "mp3",
+    "sample_rate": "22050",
+    "voice_selection": "rotation",
+    "language_preference": "en-US",
+    "use_neural_voices": true,
+    "max_file_size_mb": 25,
+    "log_level": "INFO",
+    "metadata_file": "audio_generation_metadata.json",
+    "voice_rotation": true,
+    "speech_rate": "100%",
+    "pitch": "0%",
+    "volume": "0dB",
+    "voice_presets": {
+      "positive_reviews": {
+        "voice_ids": [
+          "Joanna",
+          "Matthew",
+          "Ivy"
+        ],
+        "speech_rate": "105%",
+        "pitch": "+5%",
+        "volume": "+2dB"
+      },
+      "negative_reviews": {
+        "voice_ids": [
+          "Kendra",
+          "Joey",
+          "Salli"
+        ],
+        "speech_rate": "95%",
+        "pitch": "-5%",
+        "volume": "0dB"
+      },
+      "neutral_reviews": {
+        "voice_ids": [
+          "Justin",
+          "Kimberly",
+          "Brian"
+        ],
+        "speech_rate": "100%",
+        "pitch": "0%",
+        "volume": "0dB"
+      }
+    },
+    "language_options": {
+      "en-US": {
+        "enabled": true,
+        "voices": [
+          "Joanna",
+          "Matthew",
+          "Ivy",
+          "Justin",
+          "Kendra",
+          "Kimberly",
+          "Salli",
+          "Joey"
+        ]
+      },
+      "en-GB": {
+        "enabled": true,
+        "voices": [
+          "Emma",
+          "Brian",
+          "Amy"
+        ]
+      },
+      "en-AU": {
+        "enabled": false,
+        "voices": [
+          "Nicole",
+          "Russell"
+        ]
+      },
+      "es-ES": {
+        "enabled": false,
+        "voices": [
+          "Lucia",
+          "Enrique"
+        ]
+      },
+      "fr-FR": {
+        "enabled": false,
+        "voices": [
+          "Céline",
+          "Mathieu"
+        ]
+      },
+      "de-DE": {
+        "enabled": false,
+        "voices": [
+          "Marlene",
+          "Hans"
+        ]
+      }
+    },
+    "output_formats": {
+      "mp3": {
+        "enabled": true,
+        "description": "MPEG Audio Layer III format"
+      },
+      "ogg_vorbis": {
+        "enabled": false,
+        "description": "Ogg Vorbis format"
+      },
+      "pcm": {
+        "enabled": false,
+        "description": "Raw PCM format"
+      },
+      "json": {
+        "enabled": false,
+        "description": "JSON with speech marks"
+      }
+    }
+  },
+  "results": [
+    {
+      "customer_id": "CUST-00047",
+      "success": true,
+      "audio_file": "audio_CUST-00047_Joanna_en-US_20251212_074444.mp3",
+      "voice_used": {
+        "id": "Joanna",
+        "gender": "Female",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 2143,
+      "audio_size_bytes": 751587,
+      "generation_timestamp": "2025-12-12T07:44:44.818553"
+    },
+    {
+      "customer_id": "CUST-00040",
+      "success": true,
+      "audio_file": "audio_CUST-00040_Matthew_en-US_20251212_074446.mp3",
+      "voice_used": {
+        "id": "Matthew",
+        "gender": "Male",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 2226,
+      "audio_size_bytes": 694692,
+      "generation_timestamp": "2025-12-12T07:44:46.435652"
+    },
+    {
+      "customer_id": "CUST-00025",
+      "success": true,
+      "audio_file": "audio_CUST-00025_Ivy_en-US_20251212_074449.mp3",
+      "voice_used": {
+        "id": "Ivy",
+        "gender": "Female",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 2229,
+      "audio_size_bytes": 815534,
+      "generation_timestamp": "2025-12-12T07:44:49.518072"
+    },
+    {
+      "customer_id": "CUST-00018",
+      "success": true,
+      "audio_file": "audio_CUST-00018_Justin_en-US_20251212_074452.mp3",
+      "voice_used": {
+        "id": "Justin",
+        "gender": "Male",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 2145,
+      "audio_size_bytes": 749079,
+      "generation_timestamp": "2025-12-12T07:44:52.584874"
+    },
+    {
+      "customer_id": "CUST-00034",
+      "success": true,
+      "audio_file": "audio_CUST-00034_Kendra_en-US_20251212_074456.mp3",
+      "voice_used": {
+        "id": "Kendra",
+        "gender": "Female",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 2218,
+      "audio_size_bytes": 885595,
+      "generation_timestamp": "2025-12-12T07:44:56.364924"
+    },
+    {
+      "customer_id": "CUST-00021",
+      "success": true,
+      "audio_file": "audio_CUST-00021_Kimberly_en-US_20251212_074459.mp3",
+      "voice_used": {
+        "id": "Kimberly",
+        "gender": "Female",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 2131,
+      "audio_size_bytes": 828073,
+      "generation_timestamp": "2025-12-12T07:44:59.513803"
+    },
+    {
+      "customer_id": "CUST-00004",
+      "success": true,
+      "audio_file": "audio_CUST-00004_Salli_en-US_20251212_074502.mp3",
+      "voice_used": {
+        "id": "Salli",
+        "gender": "Female",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 1872,
+      "audio_size_bytes": 705977,
+      "generation_timestamp": "2025-12-12T07:45:02.271323"
+    },
+    {
+      "customer_id": "CUST-00010",
+      "success": true,
+      "audio_file": "audio_CUST-00010_Joey_en-US_20251212_074504.mp3",
+      "voice_used": {
+        "id": "Joey",
+        "gender": "Male",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 1940,
+      "audio_size_bytes": 750489,
+      "generation_timestamp": "2025-12-12T07:45:04.751441"
+    },
+    {
+      "customer_id": "CUST-00007",
+      "success": true,
+      "audio_file": "audio_CUST-00007_Joanna_en-US_20251212_074507.mp3",
+      "voice_used": {
+        "id": "Joanna",
+        "gender": "Female",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 1911,
+      "audio_size_bytes": 664599,
+      "generation_timestamp": "2025-12-12T07:45:07.292943"
+    },
+    {
+      "customer_id": "CUST-00012",
+      "success": true,
+      "audio_file": "audio_CUST-00012_Matthew_en-US_20251212_074508.mp3",
+      "voice_used": {
+        "id": "Matthew",
+        "gender": "Male",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 1940,
+      "audio_size_bytes": 619773,
+      "generation_timestamp": "2025-12-12T07:45:08.839664"
+    },
+    {
+      "customer_id": "CUST-00002",
+      "success": true,
+      "audio_file": "audio_CUST-00002_Ivy_en-US_20251212_074511.mp3",
+      "voice_used": {
+        "id": "Ivy",
+        "gender": "Female",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 1534,
+      "audio_size_bytes": 555512,
+      "generation_timestamp": "2025-12-12T07:45:11.213253"
+    },
+    {
+      "customer_id": "CUST-00003",
+      "success": true,
+      "audio_file": "audio_CUST-00003_Justin_en-US_20251212_074513.mp3",
+      "voice_used": {
+        "id": "Justin",
+        "gender": "Male",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 1726,
+      "audio_size_bytes": 608801,
+      "generation_timestamp": "2025-12-12T07:45:13.752499"
+    },
+    {
+      "customer_id": "CUST-00029",
+      "success": true,
+      "audio_file": "audio_CUST-00029_Kendra_en-US_20251212_074517.mp3",
+      "voice_used": {
+        "id": "Kendra",
+        "gender": "Female",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 2143,
+      "audio_size_bytes": 835440,
+      "generation_timestamp": "2025-12-12T07:45:17.006149"
+    },
+    {
+      "customer_id": "CUST-00001",
+      "success": true,
+      "audio_file": "audio_CUST-00001_Kimberly_en-US_20251212_074519.mp3",
+      "voice_used": {
+        "id": "Kimberly",
+        "gender": "Female",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 1463,
+      "audio_size_bytes": 570401,
+      "generation_timestamp": "2025-12-12T07:45:19.303827"
+    },
+    {
+      "customer_id": "CUST-00015",
+      "success": true,
+      "audio_file": "audio_CUST-00015_Salli_en-US_20251212_074522.mp3",
+      "voice_used": {
+        "id": "Salli",
+        "gender": "Female",
+        "neural": true,
+        "language": "en-US"
+      },
+      "text_length": 2102,
+      "audio_size_bytes": 792181,
+      "generation_timestamp": "2025-12-12T07:45:22.345193"
+    }
+  ]
+}

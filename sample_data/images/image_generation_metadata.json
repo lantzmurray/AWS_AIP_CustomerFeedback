@@ -1,0 +1,45 @@
+{
+  "generation_timestamp": "2025-12-12T07:20:57.208556",
+  "model_used": "amazon.titan-image-generator-v1",
+  "aws_region": "${AWS_REGION}",
+  "attempted_generations": 7,
+  "successful_generations": 7,
+  "success_rate": 1.0,
+  "prompts_used": [
+    {
+      "prompt": "A customer service representative helping a satisfied customer in a modern retail store, professional lighting, high quality",
+      "filename_prefix": "customer_service_positive",
+      "description": "Positive customer service interaction"
+    },
+    {
+      "prompt": "A frustrated customer looking at a broken product, dramatic lighting, realistic style, customer complaint scenario",
+      "filename_prefix": "customer_complaint",
+      "description": "Customer complaint scenario"
+    },
+    {
+      "prompt": "A team meeting analyzing customer feedback charts and graphs on a screen, corporate office environment, professional setting",
+      "filename_prefix": "feedback_analysis",
+      "description": "Team analyzing customer feedback"
+    },
+    {
+      "prompt": "A customer writing a positive review on a smartphone, coffee shop setting, natural lighting, modern lifestyle",
+      "filename_prefix": "writing_review",
+      "description": "Customer writing a review"
+    },
+    {
+      "prompt": "A product showcase with 5-star rating symbols, clean white background, commercial photography style",
+      "filename_prefix": "product_rating",
+      "description": "Product with high ratings"
+    },
+    {
+      "prompt": "A customer satisfaction survey form on a tablet with checkmarks, office environment, professional documentation",
+      "filename_prefix": "satisfaction_survey",
+      "description": "Customer satisfaction survey"
+    },
+    {
+      "prompt": "A dashboard with customer metrics and analytics, data visualization, modern UI design, business intelligence",
+      "filename_prefix": "analytics_dashboard",
+      "description": "Customer analytics dashboard"
+    }
+  ]
+}

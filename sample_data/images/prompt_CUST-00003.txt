@@ -1,0 +1,5 @@
+Customer ID: CUST-00003
+Date of Image Upload: 2025-11-25
+
+Image Generation Prompt:
+Create a problem demonstration image showing a product with visible quality issues. The image should depict a consumer electronic device with a visible crack on its casing, loose components, and signs of poor craftsmanship. The lighting should be slightly harsh to emphasize the defects. The product should be shown at an angle where the quality problems are clearly visible. Include subtle signs of minimal wear to indicate the product broke after minimal use. Background should be neutral gray to keep focus on the product issues. Style: documentary photography, realistic, detailed textures, medium resolution, authentic lighting.

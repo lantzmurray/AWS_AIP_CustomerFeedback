@@ -1,0 +1,7 @@
+{
+  "body": "{\"customerId\":\"CUST-00001\",\"rating\":5,\"feedback\":\"Excellent service and very helpful staff! The product quality exceeded my expectations.\",\"timestamp\":\"2023-12-09T14:00:00.000Z\"}",
+  "httpMethod": "POST",
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}

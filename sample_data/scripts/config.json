@@ -1,0 +1,57 @@
+{
+  "aws_region": "${AWS_REGION}",
+  "model_id": "${MODEL_ID}",
+  "output_dir": "sample_data/images",
+  "image_count": 7,
+  "log_level": "INFO",
+  "image_generation_config": {
+    "numberOfImages": 1,
+    "quality": "standard",
+    "cfgScale": 8.0,
+    "seed": 42,
+    "height": 512,
+    "width": 512
+  },
+  "prompts": {
+    "customer_service_positive": {
+      "prompt": "A customer service representative helping a satisfied customer in a modern retail store, professional lighting, high quality",
+      "description": "Positive customer service interaction"
+    },
+    "customer_complaint": {
+      "prompt": "A frustrated customer looking at a broken product, dramatic lighting, realistic style, customer complaint scenario",
+      "description": "Customer complaint scenario"
+    },
+    "feedback_analysis": {
+      "prompt": "A team meeting analyzing customer feedback charts and graphs on a screen, corporate office environment, professional setting",
+      "description": "Team analyzing customer feedback"
+    },
+    "writing_review": {
+      "prompt": "A customer writing a positive review on a smartphone, coffee shop setting, natural lighting, modern lifestyle",
+      "description": "Customer writing a review"
+    },
+    "product_rating": {
+      "prompt": "A product showcase with 5-star rating symbols, clean white background, commercial photography style",
+      "description": "Product with high ratings"
+    },
+    "satisfaction_survey": {
+      "prompt": "A customer satisfaction survey form on a tablet with checkmarks, office environment, professional documentation",
+      "description": "Customer satisfaction survey"
+    },
+    "analytics_dashboard": {
+      "prompt": "A dashboard with customer metrics and analytics, data visualization, modern UI design, business intelligence",
+      "description": "Customer analytics dashboard"
+    },
+    "happy_customers": {
+      "prompt": "A diverse group of happy customers holding shopping bags, retail environment, joyful atmosphere, natural expressions",
+      "description": "Group of satisfied customers"
+    },
+    "support_agent": {
+      "prompt": "A customer support agent wearing headset, call center environment, professional lighting, service industry",
+      "description": "Customer support agent"
+    },
+    "feedback_form": {
+      "prompt": "A feedback form with handwritten notes, pen on paper, detailed comments, customer feedback documentation",
+      "description": "Written feedback form"
+    }
+  }
+}

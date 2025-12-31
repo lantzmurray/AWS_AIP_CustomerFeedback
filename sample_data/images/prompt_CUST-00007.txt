@@ -1,0 +1,5 @@
+Customer ID: CUST-00007
+Date of Image Upload: 2025-11-12
+
+Image Generation Prompt:
+Create a dramatic problem demonstration image showing a severely damaged product. The image should depict an electronic device that arrived completely broken, with visible cracks, shattered components, and detached parts. The product should be shown still partially in its damaged packaging to indicate shipping issues. Use dramatic lighting with harsh shadows to emphasize the severity of the damage. Include scattered broken pieces around the main product to show the extent of the issues. Background should be dark and moody to reflect the customer's terrible experience. Style: documentary photography, high contrast, detailed damage textures, realistic, medium resolution.

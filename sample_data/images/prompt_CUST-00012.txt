@@ -1,0 +1,5 @@
+Customer ID: CUST-00012
+Date of Image Upload: 2025-10-30
+
+Image Generation Prompt:
+Create a lifestyle image showing the product being used in an ideal everyday setting. The image should depict a person happily using the electronic device in a comfortable, modern home environment. The scene should convey satisfaction and perfect functionality, with the user having a pleasant expression. Include contextual elements that suggest the product integrates seamlessly into daily life. Use warm, natural lighting to create an inviting atmosphere. The composition should show the product from an angle that highlights both the device and the user's positive interaction with it. Background should include tasteful home decor elements that complement the product. Style: lifestyle photography, natural lighting, candid moment, high resolution, warm color palette, realistic human interaction.

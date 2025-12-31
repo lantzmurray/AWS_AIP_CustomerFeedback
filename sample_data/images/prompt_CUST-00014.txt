@@ -1,0 +1,5 @@
+Customer ID: CUST-00014
+Date of Image Upload: 2025-10-25
+
+Image Generation Prompt:
+Create a product showcase image emphasizing excellent build quality and premium materials. The image should feature the electronic device with a focus on its superior construction and attention to detail. Use studio lighting with soft highlights to create subtle reflections that showcase the premium finish. The product should be positioned at a slight angle to display multiple surfaces and edges. Include macro-style details that highlight precise assembly, quality seams, and premium texture. The background should be a clean, professional gradient that complements the product without distracting from it. Add subtle elements that suggest fast delivery service, such as a partially visible shipping box in the background. Style: high-end product photography, sharp focus, 4K resolution, detailed textures, professional lighting.

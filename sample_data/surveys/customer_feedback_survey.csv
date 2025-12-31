@@ -1,0 +1,56 @@
+customer_id,submission_date,overall_rating,product_quality_rating,customer_service_rating,delivery_speed_rating,value_for_money_rating,would_recommend,feedback_text,has_uploaded_image,has_uploaded_audio
+CUST-00001,2025-12-01,5,5,5,5,5,Yes,Excellent product quality! The customer service team was very helpful and responsive. Delivery was faster than expected. Will definitely order again.,Yes,No
+CUST-00002,2025-11-28,4,4,5,3,4,Yes,Good product overall. Customer service was exceptional when I had questions about the product. Delivery took a bit longer than anticipated but still within reasonable time.,No,No
+CUST-00003,2025-11-25,2,2,3,2,2,No,The product quality was not as described. It felt cheap and broke after minimal use. Customer service tried to help but couldn't resolve the issue completely.,Yes,No
+CUST-00004,2025-11-20,5,5,4,5,5,Yes,Amazing value for money! The product exceeded my expectations in quality. Only minor issue was a slight delay in customer service response time.,No,Yes
+CUST-00005,2025-11-18,3,3,3,4,3,Yes,Average product that does what it's supposed to do. Nothing exceptional but also no major complaints. Delivery was prompt and packaging was secure.,No,No
+CUST-00006,2025-11-15,4,4,4,4,4,Yes,Solid product with good build quality. Customer service was helpful when I needed to return the first item due to shipping damage. Replacement arrived quickly.,Yes,Yes
+CUST-00007,2025-11-12,1,1,1,1,1,No,Terrible experience from start to finish. Product arrived broken, customer service was unhelpful, and the refund process was a nightmare. Will never order again.,Yes,Yes
+CUST-00008,2025-11-10,5,5,5,4,5,Yes,Outstanding product quality and customer service! The product works exactly as advertised and the team went above and beyond to ensure I was satisfied.,No,No
+CUST-00009,2025-11-08,3,2,4,3,3,No,Product quality was just okay, not great. Customer service was helpful though. Delivery was on time. Price seems a bit high for the quality received.,No,No
+CUST-00010,2025-11-05,4,5,3,4,4,Yes,Product itself is fantastic - well made and durable. Customer service could be more responsive though. Delivery was as expected.,Yes,No
+CUST-00011,2025-11-02,2,3,2,2,2,No,Product quality is mediocre at best. Had issues with functionality and customer service wasn't very helpful in resolving them. Delivery was slow too.,No,No
+CUST-00012,2025-10-30,5,5,5,5,5,Yes,Perfect experience! Product quality exceeded expectations, customer service was outstanding, delivery was lightning fast, and the price is unbeatable.,Yes,Yes
+CUST-00013,2025-10-28,3,3,4,3,3,Yes,Decent product for the price. Customer service was helpful when I had questions. Delivery took a bit longer than expected but arrived safely.,No,No
+CUST-00014,2025-10-25,4,4,4,5,4,Yes,Very satisfied with my purchase. Product quality is excellent and delivery was faster than expected. Customer service responded quickly to my inquiry.,Yes,No
+CUST-00015,2025-10-22,2,2,2,3,2,No,Product didn't meet my expectations based on the description. Quality feels subpar. Customer service was slow to respond and not very helpful.,No,Yes
+CUST-00016,2025-10-20,5,5,4,5,5,Yes,Exceptional product quality! Works perfectly and looks great. Customer service was knowledgeable and friendly. Delivery was prompt and well-packaged.,Yes,No
+CUST-00017,2025-10-18,3,4,3,3,3,Yes,Product is good quality overall. Customer service was average - took a while to get responses. Delivery was on schedule. Fair value for the price.,No,No
+CUST-00018,2025-10-15,1,1,2,1,1,No,Worst purchase I've made this year. Product arrived damaged, customer service was dismissive, and the return process was complicated. Avoid this company.,Yes,Yes
+CUST-00019,2025-10-12,4,4,5,4,4,Yes,Very pleased with this purchase. Product quality is excellent and customer service went above and beyond to help with a question I had. Delivery was prompt.,No,No
+CUST-00020,2025-10-10,3,3,3,3,3,Yes,Exactly what I expected for this price point. Product works as described, customer service was adequate, and delivery was on time. No complaints but no wow factor either.,Yes,No
+CUST-00021,2025-10-08,5,5,5,4,5,Yes,Fantastic product that exceeded my expectations! Customer service was incredibly helpful and responsive. Only minor issue was a slight delay in delivery.,No,Yes
+CUST-00022,2025-10-05,2,2,3,2,2,No,Product quality is questionable - doesn't feel durable. Customer service tried to help but couldn't fully resolve my concerns. Delivery was slower than promised.,No,No
+CUST-00023,2025-10-02,4,4,4,4,4,Yes,Good product that meets expectations. Customer service was professional and helpful. Delivery was on time and packaging was secure. Would recommend to others.,Yes,Yes
+CUST-00024,2025-09-30,3,3,2,3,3,No,Product is average quality. Had some issues that customer service didn't fully resolve. Delivery was on time though. Price seems a bit high for what you get.,No,No
+CUST-00025,2025-09-28,5,5,5,5,5,Yes,Outstanding in every aspect! Product quality is exceptional, customer service is top-notch, delivery was incredibly fast, and the value is unbeatable.,Yes,No
+CUST-00026,2025-09-25,2,3,2,2,2,No,Product doesn't quite match the description. Quality is mediocre at best. Customer service response time was slow and not very helpful in resolving issues.,No,No
+CUST-00027,2025-09-22,4,5,4,4,4,Yes,Excellent product quality - very well made and durable. Customer service was knowledgeable and responsive. Delivery was prompt and packaging was secure.,Yes,No
+CUST-00028,2025-09-20,3,3,3,3,3,Yes,Decent product that does what it's supposed to do. Customer service was adequate though not exceptional. Delivery was on time. Fair value for money.,No,Yes
+CUST-00029,2025-09-18,1,1,1,2,1,No,Absolute waste of money. Product broke after one use, customer service was unhelpful, and the return process was a nightmare. Stay away from this company.,Yes,Yes
+CUST-00030,2025-09-15,5,5,4,5,5,Yes,Amazing product that exceeded all my expectations! Customer service was friendly and knowledgeable. Delivery was faster than expected. Highly recommend!,No,No
+CUST-00031,2025-09-12,3,2,3,3,3,Yes,Product is okay but not great quality-wise. Customer service was helpful though. Delivery was on time. Price is reasonable for what you get.,No,No
+CUST-00032,2025-09-10,4,4,5,4,4,Yes,Very satisfied with this purchase! Product quality is excellent and customer service went above and beyond. Delivery was prompt and packaging was secure.,Yes,No
+CUST-00033,2025-09-08,2,2,2,2,2,No,Product quality is disappointing - feels cheap and poorly made. Customer service was slow to respond and not very helpful. Delivery was delayed too.,No,No
+CUST-00034,2025-09-05,5,5,5,5,5,Yes,Perfect experience from start to finish! Product quality is exceptional, customer service is outstanding, delivery was lightning fast, and the value is unbeatable.,Yes,Yes
+CUST-00035,2025-09-03,3,3,4,3,3,Yes,Good product for the price. Customer service was helpful when I had questions. Delivery took a bit longer than expected but arrived safely.,No,No
+CUST-00036,2025-08-31,4,4,4,5,4,Yes,Very pleased with my purchase. Product quality is excellent and delivery was faster than expected. Customer service responded quickly to my inquiry.,Yes,No
+CUST-00037,2025-08-28,2,3,2,2,2,No,Product didn't meet my expectations based on the description. Quality feels subpar. Customer service was slow to respond and not very helpful.,No,Yes
+CUST-00038,2025-08-26,5,5,4,5,5,Yes,Exceptional product quality! Works perfectly and looks great. Customer service was knowledgeable and friendly. Delivery was prompt and well-packaged.,Yes,No
+CUST-00039,2025-08-23,3,4,3,3,3,Yes,Product is good quality overall. Customer service was average - took a while to get responses. Delivery was on schedule. Fair value for the price.,No,No
+CUST-00040,2025-08-20,1,1,2,1,1,No,Worst purchase I've made this year. Product arrived damaged, customer service was dismissive, and the return process was complicated. Avoid this company.,Yes,Yes
+CUST-00041,2025-08-18,4,4,5,4,4,Yes,Very satisfied with this purchase. Product quality is excellent and customer service went above and beyond to help with a question I had. Delivery was prompt.,No,No
+CUST-00042,2025-08-15,3,3,3,3,3,Yes,Exactly what I expected for this price point. Product works as described, customer service was adequate, and delivery was on time. No complaints but no wow factor either.,Yes,No
+CUST-00043,2025-08-12,5,5,5,4,5,Yes,Fantastic product that exceeded my expectations! Customer service was incredibly helpful and responsive. Only minor issue was a slight delay in delivery.,No,Yes
+CUST-00044,2025-08-10,2,2,3,2,2,No,Product quality is questionable - doesn't feel durable. Customer service tried to help but couldn't fully resolve my concerns. Delivery was slower than promised.,No,No
+CUST-00045,2025-08-07,4,4,4,4,4,Yes,Good product that meets expectations. Customer service was professional and helpful. Delivery was on time and packaging was secure. Would recommend to others.,Yes,Yes
+CUST-00046,2025-08-05,3,3,2,3,3,No,Product is average quality. Had some issues that customer service didn't fully resolve. Delivery was on time though. Price seems a bit high for what you get.,No,No
+CUST-00047,2025-08-02,5,5,5,5,5,Yes,Outstanding in every aspect! Product quality is exceptional, customer service is top-notch, delivery was incredibly fast, and the value is unbeatable.,Yes,No
+CUST-00048,2025-07-30,2,3,2,2,2,No,Product doesn't quite match the description. Quality is mediocre at best. Customer service response time was slow and not very helpful in resolving issues.,No,No
+CUST-00049,2025-07-28,4,5,4,4,4,Yes,Excellent product quality - very well made and durable. Customer service was knowledgeable and responsive. Delivery was prompt and packaging was secure.,Yes,No
+CUST-00050,2025-07-25,3,3,3,3,3,Yes,Decent product that does what it's supposed to do. Customer service was adequate though not exceptional. Delivery was on time. Fair value for money.,No,Yes
+CUST-00051,2025-07-22,1,1,1,2,1,No,Absolute waste of money. Product broke after one use, customer service was unhelpful, and the return process was a nightmare. Stay away from this company.,Yes,Yes
+CUST-00052,2025-07-20,5,5,4,5,5,Yes,Amazing product that exceeded all my expectations! Customer service was friendly and knowledgeable. Delivery was faster than expected. Highly recommend!,No,No
+CUST-00053,2025-07-18,3,2,3,3,3,Yes,Product is okay but not great quality-wise. Customer service was helpful though. Delivery was on time. Price is reasonable for what you get.,No,No
+CUST-00054,2025-07-15,4,4,5,4,4,Yes,Very satisfied with this purchase! Product quality is excellent and customer service went above and beyond. Delivery was prompt and packaging was secure.,Yes,No
+CUST-00055,2025-07-12,2,2,2,2,2,No,Product quality is disappointing - feels cheap and poorly made. Customer service was slow to respond and not very helpful. Delivery was delayed too.,No,No

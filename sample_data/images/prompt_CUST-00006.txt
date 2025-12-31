@@ -1,0 +1,5 @@
+Customer ID: CUST-00006
+Date of Image Upload: 2025-11-15
+
+Image Generation Prompt:
+Create a comparison image showing a before/after scenario of product replacement. The image should be split vertically with the left side showing a product with shipping damage (dented packaging, visible cracks) and the right side showing the pristine replacement product. Both products should be identical models to emphasize the successful resolution. The lighting should be consistent across both sides. Include subtle packaging elements to indicate the replacement process. Background should be neutral to highlight the comparison. Style: commercial comparison photography, clear division, high resolution, realistic textures, professional lighting.

@@ -1,0 +1,7 @@
+{
+  "body": "{\"customerId\":\"\",\"rating\":10,\"feedback\":\"Short\"}",
+  "httpMethod": "POST",
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}

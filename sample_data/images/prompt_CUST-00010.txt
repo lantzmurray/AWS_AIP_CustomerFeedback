@@ -1,0 +1,5 @@
+Customer ID: CUST-00010
+Date of Image Upload: 2025-11-05
+
+Image Generation Prompt:
+Create a detailed product showcase image focusing on the durability and quality features of a well-made electronic device. The image should highlight specific design elements that demonstrate the product's quality - such as reinforced edges, premium materials, and precise assembly. Use macro-style photography to capture fine details and textures. The lighting should be soft but directional to create subtle shadows that emphasize the product's dimensions and build quality. Include a shallow depth of field to focus on specific quality features while keeping the overall product recognizable. Background should be minimal to keep attention on the product details. Style: macro product photography, sharp focus on details, high resolution, professional studio lighting, realistic textures.

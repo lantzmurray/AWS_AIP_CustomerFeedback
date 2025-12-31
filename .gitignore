@@ -1,0 +1,344 @@
+# AWS Credentials and Configuration
+.aws/
+.aws/config
+.aws/credentials
+*.pem
+*.key
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.eslintcache
+
+# Build outputs
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+.nyc_output
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+public
+
+# Storybook build outputs
+.out
+.storybook-out
+
+# Temporary folders
+tmp/
+temp/
+
+# AWS specific
+.aws-sam/
+.sam/
+.aws-sam/build/
+.aws-sam/deps/
+
+# CloudFormation
+*.template.backup
+*.template.bak
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Local configuration files
+config/local.json
+config/development.json
+config/production.json
+
+# Test artifacts
+test-results/
+coverage/
+.pytest_cache/
+.tox/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Deployment packages
+*.zip.deploy
+*.tar.gz.deploy
+
+# S3 sync files
+.s3/
+
+# CloudWatch logs
+*.log.gz
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.envrc
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Local development
+.local/
+local/
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+
+# Site packages
+site-packages/
+
+# AWS SAM
+samconfig.toml
+template.yaml.bak
+
+# Serverless
+.serverless/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Kubernetes
+*.kubeconfig
+
+# Helm
+charts/*.tgz
+
+# Local AWS resources
+localstack/
+docker-compose.aws.yml
+
+# Performance test results
+performance-results/
+load-test-results/
+
+# Security scan results
+security-scan-results/
+vulnerability-reports/
+
+# Backup and archive
+archive/
+backups/
+
+# Temporary deployment files
+deploy-temp/
+staging-temp/
+
+# Local configuration overrides
+config.local.js
+config.local.json
+settings.local.py
+
+# Secrets and keys (additional patterns)
+secrets/
+private/
+*.secret
+*.private
+*.p12
+*.pfx
+*.crt
+*.key
+*.pem
+
+# AWS specific temporary files
+aws-exports.js
+aws-exports.ts
+aws-config.json
+aws-credentials.json
+
+# Build artifacts
+artifacts/
+bin/
+obj/
+
+# Package manager lock files (keep package-lock.json but ignore others)
+yarn.lock
+pnpm-lock.yaml
+
+# Local development databases
+data/
+db/
+
+# Cache directories
+.cache/
+.parcel-cache/
+
+# Editor backup files
+*~
+.#*
+\#*#
+.*.swp
+.*.swo
+
+# OS generated files
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Project specific
+sample_data/real/
+production-data/
+logs/
+reports/
+temp/
+tmp/
+
+# Deployment specific
+deploy/
+deployment/
+.infra/
+.terraform/
+
+# Monitoring and metrics
+metrics/
+monitoring/
+.grafana/
+.prometheus/
+
+# CI/CD
+.github/workflows/temp/
+.gitlab-ci.yml.local
+bitbucket-pipelines.yml.local
+
+# Local testing
+test-data/
+mock-data/
+stubs/
+
+# Documentation build
+docs/build/
+site/public/
+
+# Local configuration overrides
+.env.override
+config.override.json
+settings.override.py

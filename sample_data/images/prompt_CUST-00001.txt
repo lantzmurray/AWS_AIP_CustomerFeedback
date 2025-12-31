@@ -1,0 +1,5 @@
+Customer ID: CUST-00001
+Date of Image Upload: 2025-12-01
+
+Image Generation Prompt:
+Create a professional product showcase image featuring a high-quality electronic device with excellent build quality. The product should be displayed on a clean, modern surface with professional studio lighting. Include subtle reflections that highlight the premium materials and craftsmanship. The composition should be centered with the product at a slight angle to show depth and dimension. Background should be a soft gradient from light gray to white to emphasize the product's excellence. Style: commercial product photography, sharp focus, high resolution, 4K quality, realistic textures.

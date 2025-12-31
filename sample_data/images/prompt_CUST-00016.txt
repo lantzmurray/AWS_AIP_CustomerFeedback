@@ -1,0 +1,5 @@
+Customer ID: CUST-00016
+Date of Image Upload: 2025-10-20
+
+Image Generation Prompt:
+Create an elegant product showcase image featuring a high-quality electronic device that works perfectly and looks great. The image should display the product in use, demonstrating its functionality while highlighting its aesthetic appeal. Use professional studio lighting with soft highlights to create gentle reflections on the product's surfaces. Position the device at an angle that shows both its form and function simultaneously. Include subtle elements that suggest excellent customer service, such as a friendly hand gesture or a supportive interaction. The background should be clean and modern with a slight gradient to enhance the product's premium appearance. Style: commercial product photography, lifestyle elements, high resolution, sharp focus, realistic textures, warm lighting.

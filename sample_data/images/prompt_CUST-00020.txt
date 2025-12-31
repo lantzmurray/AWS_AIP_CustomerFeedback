@@ -1,0 +1,5 @@
+Customer ID: CUST-00020
+Date of Image Upload: 2025-10-10
+
+Image Generation Prompt:
+Create a straightforward product showcase image depicting an average electronic device that performs its basic functions adequately. The image should show the product in a neutral, realistic setting without dramatic lighting or effects. The device should be positioned at a standard angle with normal, even lighting that doesn't create excessive highlights or shadows. The product should appear functional but not exceptional, with visible but not remarkable build quality. Include simple packaging elements to indicate standard delivery service. The background should be plain and neutral to keep focus on the product's average characteristics. Style: standard product photography, even lighting, medium resolution, realistic but not enhanced, straightforward composition.

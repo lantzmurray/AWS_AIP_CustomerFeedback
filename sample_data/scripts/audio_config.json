@@ -1,0 +1,81 @@
+{
+  "aws_region": "${AWS_REGION}",
+  "text_reviews_dir": "../text_reviews",
+  "audio_output_dir": "../audio",
+  "output_format": "mp3",
+  "sample_rate": "22050",
+  "voice_selection": "rotation",
+  "language_preference": "en-US",
+  "use_neural_voices": true,
+  "max_file_size_mb": 25,
+  "log_level": "INFO",
+  "metadata_file": "audio_generation_metadata.json",
+  "voice_rotation": true,
+  "speech_rate": "100%",
+  "pitch": "0%",
+  "volume": "0dB",
+  "voice_presets": {
+    "positive_reviews": {
+      "voice_ids": ["Joanna", "Matthew", "Ivy"],
+      "speech_rate": "105%",
+      "pitch": "+5%",
+      "volume": "+2dB"
+    },
+    "negative_reviews": {
+      "voice_ids": ["Kendra", "Joey", "Salli"],
+      "speech_rate": "95%",
+      "pitch": "-5%",
+      "volume": "0dB"
+    },
+    "neutral_reviews": {
+      "voice_ids": ["Justin", "Kimberly", "Brian"],
+      "speech_rate": "100%",
+      "pitch": "0%",
+      "volume": "0dB"
+    }
+  },
+  "language_options": {
+    "en-US": {
+      "enabled": true,
+      "voices": ["Joanna", "Matthew", "Ivy", "Justin", "Kendra", "Kimberly", "Salli", "Joey"]
+    },
+    "en-GB": {
+      "enabled": true,
+      "voices": ["Emma", "Brian", "Amy"]
+    },
+    "en-AU": {
+      "enabled": false,
+      "voices": ["Nicole", "Russell"]
+    },
+    "es-ES": {
+      "enabled": false,
+      "voices": ["Lucia", "Enrique"]
+    },
+    "fr-FR": {
+      "enabled": false,
+      "voices": ["Céline", "Mathieu"]
+    },
+    "de-DE": {
+      "enabled": false,
+      "voices": ["Marlene", "Hans"]
+    }
+  },
+  "output_formats": {
+    "mp3": {
+      "enabled": true,
+      "description": "MPEG Audio Layer III format"
+    },
+    "ogg_vorbis": {
+      "enabled": false,
+      "description": "Ogg Vorbis format"
+    },
+    "pcm": {
+      "enabled": false,
+      "description": "Raw PCM format"
+    },
+    "json": {
+      "enabled": false,
+      "description": "JSON with speech marks"
+    }
+  }
+}

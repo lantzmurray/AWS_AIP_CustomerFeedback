@@ -1,0 +1,28 @@
+# AWS Data Processing Scripts Dependencies
+
+# AWS SDK for Python
+boto3>=1.26.0
+botocore>=1.29.0
+
+# Data handling
+jsonschema>=4.0.0
+
+# Audio processing dependencies
+# For AWS Polly text-to-speech
+# Note: boto3 includes Polly support, no additional audio libraries needed
+
+# Optional: For enhanced image processing (if needed)
+# Pillow>=9.0.0
+
+# Optional: For progress bars
+# tqdm>=4.64.0
+
+# Optional: For audio file manipulation
+# pydub>=0.25.0
+# mutagen>=1.46.0
+
+# Development dependencies (uncomment if needed)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
